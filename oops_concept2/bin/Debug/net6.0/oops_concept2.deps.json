@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "oops_concept2/1.0.0": {
+        "dependencies": {
+          "oops_concept": "1.0.0"
+        },
+        "runtime": {
+          "oops_concept2.dll": {}
+        }
+      },
+      "oops_concept/1.0.0": {
+        "runtime": {
+          "oops_concept.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oops_concept2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "oops_concept/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
